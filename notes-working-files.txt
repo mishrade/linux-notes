@@ -1,8 +1,3 @@
-Introduction Reading material - 
-https://github.com/almehady/Intro-to-Linux/blob/master/1-introduction-linux.md
-https://github.com/Open-Source-Community/OSC19-Linux-Workshop-Sessions/tree/master
-
-
 Ways to run linux - 
 WSL on Window
 Virtual Machines 
@@ -14,8 +9,3 @@ https://labs.play-with-k8s.com/
 https://killercoda.com/
 https://studio.kodekloud.com/labs/devops/devops-linux-basic-commands
 
-
-Data for practice - 
-wget "https://downloads.codingcoursestv.eu/060%20-%20linux/contributions.zip"
-
-https://github.com/LinkedInLearning/learning-linux-command-line-3005201/tree/main/Exercise%20Files
